@@ -1,0 +1,30 @@
+{
+  "name": "Toaster #4554",
+  "image": "https://raw.githubusercontent.com/toastersnft/images/master/4554.png",
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Toast",
+      "value": "Brown Bread"
+    },
+    {
+      "trait_type": "State",
+      "value": "Regular"
+    }
+  ]
+}

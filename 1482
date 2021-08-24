@@ -1,0 +1,30 @@
+{
+  "name": "Toaster #1482",
+  "image": "https://raw.githubusercontent.com/toastersnft/images/master/1482.png",
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Toast",
+      "value": "Burnt Toast"
+    },
+    {
+      "trait_type": "State",
+      "value": "Regular"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Toaster #5840",
+  "image": "https://raw.githubusercontent.com/toastersnft/images/master/5840.png",
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "Binance"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Binance"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Binance"
+    },
+    {
+      "trait_type": "Toast",
+      "value": "Binance"
+    },
+    {
+      "trait_type": "State",
+      "value": "Regular"
+    }
+  ]
+}

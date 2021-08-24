@@ -1,0 +1,30 @@
+{
+  "name": "Toaster #1468",
+  "image": "https://raw.githubusercontent.com/toastersnft/images/master/1468.png",
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "Fidenza"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "Fidenza"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Fidenza"
+    },
+    {
+      "trait_type": "Toast",
+      "value": "Fidenza"
+    },
+    {
+      "trait_type": "State",
+      "value": "Regular"
+    }
+  ]
+}

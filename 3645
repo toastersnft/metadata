@@ -1,0 +1,30 @@
+{
+  "name": "Toaster #3645",
+  "image": "https://raw.githubusercontent.com/toastersnft/images/master/3645.png",
+  "attributes": [
+    {
+      "trait_type": "Background Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "FTX"
+    },
+    {
+      "trait_type": "Primary Color",
+      "value": "FTX"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "FTX"
+    },
+    {
+      "trait_type": "Toast",
+      "value": "FTX"
+    },
+    {
+      "trait_type": "State",
+      "value": "Regular"
+    }
+  ]
+}
